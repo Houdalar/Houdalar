@@ -1,7 +1,10 @@
 <!-- Banner Image -->
-![Welcome to My Code Haven](path/to/your/banner/image.png)
+
 
 # 👨‍💻 Welcome to Houda's Code Haven 👨‍💻
+<p align="center">
+  <img src="images/banner.png" alt="Welcome to My Code Haven" width="400" height="400">
+</p>
 
 ## 🚀 About Me
 Greetings from Tunisia! I'm Houda, a dynamic software engineer on a perpetual quest to transform ideas into elegant digital solutions. My expertise spans both mobile and web domains, with a penchant for turning caffeine into code.

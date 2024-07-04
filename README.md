@@ -50,6 +50,10 @@ Hey! I'm Houda from Tunisia, a software engineer with a knack for mobile app mag
 ## 📊 Nerd Stats
 ![Houda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Houdalar&show_icons=true&count_private=true&hide=contribs)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/Houdalar/Houdalar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Houdalar/Houdalar/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 ## 📫 Let's Chat
 - [LinkedIn](https://www.linkedin.com/in/houda-lariani-52221529a)
 - Drop me an email: houdadalar123@gmail.com
